@@ -1,13 +1,23 @@
 # ShirafukaYayoi_Light_Novel_Impressions
+
 ## 白深やよいの感想置き場
+
 このリポジトリは自分、白深やよいが読んだラノベの感想置き場です。
-何を読んだか、何を積んでいるかは白深やよいの[**読書メーター**](https://bookmeter.com/users/1291485)で確認できます。
+何を読んだか、何を積んでいるかは白深やよいの[**読書メーター**](https://bookmeter.com/users/1291485)で確認できます。  
+> [!WARNING]
+> 後で見返したときにどんな内容だったかわかるように作品の内容が8割を占めています。  
+> ネタバレ注意、なぐり書き注意です。
+>
 ## Links
-### 他のサイトでも感想を上げています。
+
+### 他のサイトでも感想を上げています
+
 - [**Twitter**](https://x.com/shirafuka_yayoi)
 - [**読書メーター**](https://bookmeter.com/users/1291485)
 - [**note**](https://note.com/shirafuka_yayoi)
+
 ### 各所レーベル公式サイト
+
 - [**電撃文庫**](https://dengekibunko.jp)
 - [**ファンタジア文庫**](https://fantasiabunko.jp)
 - [**MF文庫J**](https://mfbunkoj.jp)
@@ -21,9 +31,10 @@
 - [**メディアワークス文庫**](https://mwbunko.com)
 
 ## Template
+
 自分がMarkdown技法で感想を書くときに使っているテンプレートです。
-```
-## タイトル
+
+```## タイトル
 ![]()
 ### 著者
 

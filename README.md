@@ -1,4 +1,4 @@
-# ShirafukaYayoi_Light_Novel_Impressions
+# Shirafuka_LightNovel_Impressions
 
 ## 白深やよいの感想置き場
 
@@ -31,7 +31,8 @@
 
 自分がMarkdown技法で感想を書くときに使っているテンプレートです。
 
-```# タイトル
+```text
+# タイトル
 
 ![text](url)
 
